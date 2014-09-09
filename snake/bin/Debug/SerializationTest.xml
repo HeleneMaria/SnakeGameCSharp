@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ObjectToSerialize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BestScore>25</BestScore>
+  <Date>2013-02-25T22:28:57.1491012+01:00</Date>
+  <time>0:1:32</time>
+</ObjectToSerialize>
